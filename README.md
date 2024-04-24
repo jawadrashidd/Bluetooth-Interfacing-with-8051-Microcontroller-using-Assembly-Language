@@ -1,4 +1,4 @@
-Introduction
+
 The objective of this project was to combine Bluetooth technology with the 8051 microprocessor. The objective was to facilitate different operations that were activated by certain characters sent via a Serial Bluetooth Android application. These characters enabled several functions, including initiating countdowns, controlling relays and buzzers, transmitting Morse code, and implementing encryption. The report provides an extensive documentation that outlines the practical aspects, features, and importance of incorporating Bluetooth technology into the 8051 microcontroller in order to facilitate a wide range of real-time programmes.
 
 Objectives
